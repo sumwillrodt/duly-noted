@@ -8,9 +8,6 @@ Download the [repository] from Github. Initiate npm. Install Express.js.
 
 ##Usage
 Write and save notes to organize my thoughts and keep track of tasks.
-Walkthrough Video (src/team-generator_screenshot.png)
-
-##Tests
 
 
 ##Questions
