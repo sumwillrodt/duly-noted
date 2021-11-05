@@ -8,8 +8,8 @@ router.get('/notes', (req, res) => {
 });
 
 router.post('/notes', (req, res) => {
-    res.body.id = notes.length.toString();
-    const note = createNote(req.body, notes);
+    res.body.id = notesArray.length.toString();
+    const note = createNote(req.body, notesArray);
     
     res.json(note);
 });
